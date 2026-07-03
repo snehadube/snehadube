@@ -6,10 +6,11 @@ I enjoy solving DSA problems and am currently improving my LeetCode streak!
 
 ### 📊 About Me
 
-- 🧠 Currently specializing in **Data Analytics, Cloud Deployments, and Python Architecture**.
+- 🧠 Currently learning **Data Analytics, Python, and Web Development** fundamentals.
 - 🛠️ Just launched: **[Universal ATS Resume Auditor Pro](https://resume-auditor-pro.onrender.com)** — A live full-stack text analytics tool.
 - 🎓 Pursuing Integrated MCA with a focus on Applied Computer Science & Software Engineering.
 - 💼 Open for **Data Analyst Internships / Graduate Engineer Trainee (GET)** roles.
+- - 💼 Completed a 2-month **AI & ML Internship** at **ExaTip Technologies** (Feb–April 2026).
 
 ---
 
@@ -20,7 +21,7 @@ I enjoy solving DSA problems and am currently improving my LeetCode streak!
 | **Languages** | Python (Pandas, NumPy), SQL, HTML5, CSS3 |
 | **Frameworks** | Flask, Jinja2, PyPDF2 |
 | **Data Visualization** | Microsoft Power BI, MS Excel |
-| **DevOps & Cloud** | Git, GitHub, Render Cloud Infrastructure |
+| **Tools & Deployment** | Git, GitHub, Render |
 
 ---
 
