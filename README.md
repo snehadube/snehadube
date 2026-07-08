@@ -1,7 +1,6 @@
 # 👨‍💻 Hello World, I'm Sneha Dubey! 
 
-🚀 **Aspiring Data Analyst & Full-Stack Python Developer** | MCA Student @ DAVV IIPS, Indore.  
-I enjoy solving DSA problems and am currently improving my LeetCode streak!
+🚀 **MCA Final Year @ DAVV IIPS | Python • SQL • Java | Data Analyst & Web Dev | Open to Remote Roles & Paid Internships
 ---
 
 ### 📊 About Me
